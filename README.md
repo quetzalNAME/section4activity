@@ -4,3 +4,5 @@ lorem ipsum dude
 Siege, Silksong
 ## How to build
 just do it
+## How to run
+one foot at a time
