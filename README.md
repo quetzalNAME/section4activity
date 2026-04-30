@@ -1,7 +1,7 @@
 ## About this project
 lorem ipsum dude
 ## Our favorite games
-Siege, Silksong
+Siege, Silksong, AND terraria
 ## How to build
 just do it
 ## How to run
